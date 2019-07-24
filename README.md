@@ -1,5 +1,5 @@
 # VUE--Todo-App
-A todo app using vue js, following brad traversy tutorial
+A todo app using vue js by karthik, following brad traversy tutorial
 
 install axios and vue-router along with creating the vue projects..
 
